@@ -321,6 +321,6 @@ if __name__ == '__main__':
 
     test_data = []
 	
-	classification_label = random_forest_classification(testData)
+    classification_label = random_forest_classification(testData)
 
-	print("Result of Classification : , class_label)
+    print("Result of Classification : , class_label)
